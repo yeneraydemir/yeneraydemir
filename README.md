@@ -4,11 +4,9 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![18153FB8-3D30-4002-A599-BB8BF1934DE5_1_105_c](https://github.com/yeneraydemir/yeneraydemir/assets/147715464/cb9f624e-b56c-496e-8dc1-f1d1d1d673ba)
+
+
 ###
 
 <p align="left">Technologies I Frequently Use</p>
