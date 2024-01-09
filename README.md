@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/yeneraydemir/yeneraydemir/output/snake.svg" alt="Snake animation" />
 
 ###
