@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Sıklıkla Kullandığım Teknolojiler</p>
+<img src="https://raw.githubusercontent.com/yeneraydemir/yeneraydemir/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Technologies I Frequently Use</p>
 
 ###
 
@@ -26,7 +30,7 @@
 
 ###
 
-<p align="left">Öğrenmek İstediğim Teknolojiler</p>
+<p align="left">Technologies to Learn</p>
 
 ###
 
@@ -42,14 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/9vj1sox4w7fusx1x9fspf2gue">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9vj1sox4w7fusx1x9fspf2gue&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
