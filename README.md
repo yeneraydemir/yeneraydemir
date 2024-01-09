@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src:"![18153FB8-3D30-4002-A599-BB8BF1934DE5_1_105_c](https://github.com/yeneraydemir/yeneraydemir/assets/147715464/cb9f624e-b56c-496e-8dc1-f1d1d1d673ba)" width 200px;>
+![18153FB8-3D30-4002-A599-BB8BF1934DE5_1_201_a](https://github.com/yeneraydemir/yeneraydemir/assets/147715464/7b77630e-3d3a-4326-8e4b-661c7c6286c4)
 
 
 ###
