@@ -51,4 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
+<br clear="both">
+
+<img src="https://github.com/yeneraydemir/yeneraydemir/assets/147715464/cb9f624e-b56c-496e-8dc1-f1d1d1d673ba" alt="Görüntü açıklaması" width="300px" height="100%">
+
+
 ###
