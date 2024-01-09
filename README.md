@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Technologies I Frequently Use</p>
+<p align="left"><b>Technologies I Frequently Use</b></p>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Technologies to Learn</p>
+<p align="left"><b>Technologies to Learn</b></p>
 
 ###
 
