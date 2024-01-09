@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/yeneraydemir/yeneraydemir/assets/147715464/cb9f624e-b56c-496e-8dc1-f1d1d1d673ba" alt="Görüntü açıklaması" width="300%" height="100%">
+<img src="https://github.com/yeneraydemir/yeneraydemir/assets/147715464/cb9f624e-b56c-496e-8dc1-f1d1d1d673ba" alt="Görüntü açıklaması" width="300px" height="100%">
 
 
 ###
