@@ -1,15 +1,5 @@
 <h2 align="left">Hi 👋! My name is Yener and I'm a Full Stack Developer 💻</h2>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="450" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif"  />
-</div>
-
-###
-
 <h1 align="center">⭐️⭐️⭐️</h1>
 
 ###
