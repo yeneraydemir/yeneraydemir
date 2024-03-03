@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
     <img width="12" />
-  <img src="  https://raw.githubusercontent.com/devicons/devicon/4c40940a8a71de4e56713392e182ca63ef910a8e/icons/laravel/laravel-line-wordmark.svg"height="50"alt="Laravel logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/4c40940a8a71de4e56713392e182ca63ef910a8e/icons/laravel/laravel-original-wordmark.svg"height="50"alt="Laravel logo"  />
 </div>
 
 ###
